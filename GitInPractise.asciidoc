@@ -7,7 +7,6 @@ lib
 lib64
 libexec
 local
-sbin
 share
 src
-tmp
+tmp and tmp and tmp
