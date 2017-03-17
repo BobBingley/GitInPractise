@@ -7,6 +7,8 @@ lib
 lib64
 libexec
 local
+Chapter 2
+In the middle? Really?
 share
 src
 tmp and tmp and tmp
